@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\C#\\Puzzles\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15BF5F6C-B98F-4D9D-8AD0-B60A0FAB6A81}|Puzzles.csproj|c:\\users\\user\\source\\repos\\c#\\puzzles\\migrations\\20250726173117_initialpuzzledatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BF5F6C-B98F-4D9D-8AD0-B60A0FAB6A81}|Puzzles.csproj|solutionrelative:migrations\\20250726173117_initialpuzzledatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BF5F6C-B98F-4D9D-8AD0-B60A0FAB6A81}|Puzzles.csproj|c:\\users\\user\\source\\repos\\c#\\puzzles\\models\\puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BF5F6C-B98F-4D9D-8AD0-B60A0FAB6A81}|Puzzles.csproj|solutionrelative:models\\puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BF5F6C-B98F-4D9D-8AD0-B60A0FAB6A81}|Puzzles.csproj|c:\\users\\user\\source\\repos\\c#\\puzzles\\data\\puzzlecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BF5F6C-B98F-4D9D-8AD0-B60A0FAB6A81}|Puzzles.csproj|solutionrelative:data\\puzzlecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BF5F6C-B98F-4D9D-8AD0-B60A0FAB6A81}|Puzzles.csproj|c:\\users\\user\\source\\repos\\c#\\puzzles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BF5F6C-B98F-4D9D-8AD0-B60A0FAB6A81}|Puzzles.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BF5F6C-B98F-4D9D-8AD0-B60A0FAB6A81}|Puzzles.csproj|c:\\users\\user\\source\\repos\\c#\\puzzles\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BF5F6C-B98F-4D9D-8AD0-B60A0FAB6A81}|Puzzles.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BF5F6C-B98F-4D9D-8AD0-B60A0FAB6A81}|Puzzles.csproj|c:\\users\\user\\source\\repos\\c#\\puzzles\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BF5F6C-B98F-4D9D-8AD0-B60A0FAB6A81}|Puzzles.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BF5F6C-B98F-4D9D-8AD0-B60A0FAB6A81}|Puzzles.csproj|c:\\users\\user\\source\\repos\\c#\\puzzles\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BF5F6C-B98F-4D9D-8AD0-B60A0FAB6A81}|Puzzles.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BF5F6C-B98F-4D9D-8AD0-B60A0FAB6A81}|Puzzles.csproj|c:\\users\\user\\source\\repos\\c#\\puzzles\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BF5F6C-B98F-4D9D-8AD0-B60A0FAB6A81}|Puzzles.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +55,110 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250726173117_InitialPuzzleDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\Puzzles\\Migrations\\20250726173117_InitialPuzzleDataBase.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250726173117_InitialPuzzleDataBase.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\Puzzles\\Migrations\\20250726173117_InitialPuzzleDataBase.cs",
+              "RelativeToolTip": "Migrations\\20250726173117_InitialPuzzleDataBase.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBMAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T17:31:17.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PuzzleContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\Puzzles\\Data\\PuzzleContext.cs",
+              "RelativeDocumentMoniker": "Data\\PuzzleContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\Puzzles\\Data\\PuzzleContext.cs",
+              "RelativeToolTip": "Data\\PuzzleContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:07:28.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Puzzle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\Puzzles\\Models\\Puzzle.cs",
+              "RelativeDocumentMoniker": "Models\\Puzzle.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\Puzzles\\Models\\Puzzle.cs",
+              "RelativeToolTip": "Models\\Puzzle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:06:04.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\Puzzles\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\Puzzles\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:20:40.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\Puzzles\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\Puzzles\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-24T20:11:48.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\Puzzles\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\Puzzles\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-24T20:11:42.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\Puzzles\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\Puzzles\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-24T20:09:20.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\Puzzles\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\Puzzles\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:57:43.885Z",
+              "EditorCaption": ""
             }
           ]
         }

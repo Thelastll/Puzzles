@@ -1,4 +1,9 @@
+using Microsoft.EntityFrameworkCore;
+using Puzzles.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<PuzzleContext>(
+            options => options.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=Puzzles;Trusted_Connection=True;MultipleActiveResultSets=true"));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
